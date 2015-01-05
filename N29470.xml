@@ -113,8 +113,8 @@
    <text xml:lang="eng">
       <body>
          <div type="act">
-            <pb facs="tcp:039247_0000_1013F9C511B8C9F8"/>
-            <pb facs="tcp:039247_0001_1013F9C695F012D8"/>
+            <pb facs="unknown:039247_0000_1013F9C511B8C9F8"/>
+            <pb facs="unknown:039247_0001_1013F9C695F012D8"/>
             <opener>
                <signed>
                   <hi>JOHN USHER</hi> 
